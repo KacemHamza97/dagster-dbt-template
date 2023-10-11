@@ -22,7 +22,7 @@ make install
 In order to start the Dagster webserver and observe the pipeline graph in operation, please execute the following command:
 
 ```python
-make run-dasgter
+make run-dagster
 ```
 
 ## Clean Temp Files
