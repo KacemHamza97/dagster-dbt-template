@@ -1,9 +1,7 @@
-sources:
-  - name: main
-    tables:
-      - name: film
-      - name: film_category
-      - name: category
-      - name: vehicle_information
-      - name: location_information
+##Example of sources.yml
+
+# sources:
+#   - name: main
+#     tables:
+#       - name: film
 

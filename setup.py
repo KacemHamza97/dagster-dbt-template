@@ -12,7 +12,9 @@ setup(
         "pandas",
         "polars",
         "pyarrow",
-        "sling"
+        "sling",
+        "urllib3==1.26.15",
+        "requests-toolbelt==0.10.1"
     ],
     extras_require={"dev": ["dagster-webserver", "pytest"]},
 )
